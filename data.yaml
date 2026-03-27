@@ -1,4 +1,4 @@
-path: /baseball_trainer/data
+path: /workspace/baseball_data/data
 train: train/images
 val: val/images
 nc: 1

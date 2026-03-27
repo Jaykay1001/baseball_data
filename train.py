@@ -4,6 +4,6 @@ model = YOLO("yolo11l.pt")
 model.train(
     data=r"data.yaml",
     epochs=100,
-    imgsz=640,
-    batch=16
+    imgsz=1280,
+    batch=24
 )
